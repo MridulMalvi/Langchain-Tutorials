@@ -1,0 +1,27 @@
+#Langchain core
+langchain
+langchain-core
+
+#OpenAI integration
+langchain-openai
+openai
+
+#Anthropic integration
+langchain-anthropic
+
+#Google gemeni (PaLM) integration
+langchain-google-genai
+google-generativeai
+
+#Hugging face integration
+#pip install -r requirements.txt
+langchain-huggingface
+transformers
+huggingface-hub
+
+#Env. Variable Management
+python-dotenv
+
+#Machine Learning Utilities
+numpy
+scikit-learn
